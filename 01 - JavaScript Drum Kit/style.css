@@ -10,10 +10,18 @@ body,html {
   font-family: sans-serif;
 }
 
+.space-bar {
+  fill: blue;
+  fill-opacity: 0;
+  border: 2px solid green;
+  height: 32px;
+  /* width: 100%; */
+}
+
 .keys {
   display: flex;
   flex: 1;
-  min-height: 100vh;
+  min-height: 60vh;
   align-items: center;
   justify-content: center;
 }
