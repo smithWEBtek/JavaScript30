@@ -12,7 +12,6 @@ body,html {
 
 .space-bar {
   fill: blue;
-  fill-opacity: 0;
   border: 2px solid green;
   height: 32px;
   /* width: 100%; */
